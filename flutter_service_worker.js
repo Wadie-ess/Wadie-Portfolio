@@ -4,17 +4,16 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "bd341ba74d38c530da636604a427deda",
-"index.html": "3653d4ca8cb13fc553fc680e4a05370f",
-"/": "3653d4ca8cb13fc553fc680e4a05370f",
+"index.html": "52b504c446bea0971fdde20413b02249",
+"/": "52b504c446bea0971fdde20413b02249",
 "loader.css": "3ed0540af717cd56f01a37a08f714759",
-"main.dart.js": "9fc73399d75fc6ecc9cc8d019c891f43",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"main.dart.js": "98fe9acc05f5bd5cb76f08bd9e91fc51",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "76858bfccb016815b5d8257df072ea5f",
-"assets/AssetManifest.json": "f97329ca16762d3349b87525b4f4da3e",
-"assets/NOTICES": "d0960612d64c06d13214afe9dcd7ef55",
+"assets/AssetManifest.json": "bff0d7abd801f72d31c14e49b5549252",
+"assets/NOTICES": "15f1b26fbba5641bc9aff9ec4b2ced31",
 "assets/FontManifest.json": "7aaf3996738086bbd796613e14ef9e45",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_icons/fonts/Octicons.ttf": "73b8cff012825060b308d2162f31dbb2",
@@ -33,15 +32,13 @@ const RESOURCES = {
 "assets/packages/flutter_icons/fonts/EvilIcons.ttf": "140c53a7643ea949007aa9a282153849",
 "assets/packages/flutter_icons/fonts/SimpleLineIcons.ttf": "d2285965fe34b05465047401b8595dd0",
 "assets/packages/flutter_icons/fonts/MaterialIcons.ttf": "a37b0c01c0baf1888ca812cc0508f6e2",
-"assets/shaders/ink_sparkle.frag": "8426d206c03154e1cb38782e4d6c2c19",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/assets/brand3.png": "c0915a84744f3481a2105c5aea6727e0",
 "assets/assets/me.png": "b88aee0d644450360de86fa1c4e8172d",
 "assets/assets/ecom.png": "d7da8875323c8c9242106d1aad295f52",
 "assets/assets/email.png": "5eb3c4b86aafbee72b8c471b29413a50",
 "assets/assets/mappin.png": "9cc090022ae31337336d2024160714b8",
 "assets/assets/design.png": "6aaec412d8837ac9a83f03f453877606",
-"assets/assets/person_small.png": "6f780d058150543096d7bd3060db4ac4",
 "assets/assets/hash.png": "e6a298a3f3873272de1ccd9611ba43c4",
 "assets/assets/brand2.png": "91c6d8820e35e10e39757e0de6ac4345",
 "assets/assets/plants2.png": "3832f07e5a321190029eb338fd800e0d",
@@ -53,6 +50,7 @@ const RESOURCES = {
 "assets/assets/finawa.png": "b34a844ac50fe6b854f79045b71a5777",
 "assets/assets/brand5.png": "fc57e9a9ff95830ea207e2452ffd4bd6",
 "assets/assets/desk.png": "83dcbc6d523fb99ff1f56994a3c4a653",
+"assets/assets/cub.gif": "0d72c1ff11f03144270eea59ea83fe48",
 "assets/assets/Untitled-1.xd": "4594a80d4d988c1e3b90f09122dbb396",
 "assets/assets/brand4.png": "e9441e9a5d26e508f592aa31b9febff6",
 "assets/assets/logos.xd": "1bfba21f0e4afda5c663b633b0f613e5",
@@ -60,15 +58,16 @@ const RESOURCES = {
 "assets/assets/oncf.png": "6b143393ad379dc348c358684c5b64ce",
 "assets/assets/chairs.png": "e33bcda2612c8cde6c18c7502735a04b",
 "assets/assets/in.png": "64254834c371550d527f9c773b02c28a",
+"assets/assets/load2.gif": "1af68cbeb63f40d4262f43779e113161",
+"assets/assets/all5.gif": "1e1431f8a8ff0bdb071cd5c5de4a10b8",
 "assets/assets/male.png": "a687ddbf4597360c3b9e293a58b1d829",
 "assets/assets/1337.jpeg": "c28d619da980a24c80081d1fccef2497",
 "assets/assets/github.png": "da64f0237fa1533b76d5f456ed7a7d48",
 "assets/assets/ofpptt.png": "d6e58b2a54b749306cdaac8f181f66d6",
 "assets/assets/music.png": "24b49e00b6385dc404741c4c9fabf435",
-"assets/assets/person.png": "5b6ba176416812aa5448c6704d31caa0",
 "assets/assets/todo.png": "246f6086897b69da9a8f6744742cabdf",
 "assets/assets/company_name.png": "ee5f55854134eb6f3fb1838cf1973ae9",
-"assets/assets/a7aaaaa.png": "ad0de226cd9eb8e9cf66c5a87eb7900c",
+"assets/assets/loading.gif": "4441959edeb870f1583845a64155ae84",
 "assets/assets/promote.png": "2bd8adcad79a4ebb80888d1a0583b3c4",
 "assets/assets/tools.png": "be364d9f0c4e0f71d9849a59c0dfacf8",
 "assets/assets/weather.png": "d6d23a1273c2092f6aebba3c678f84a4",
@@ -93,7 +92,6 @@ const RESOURCES = {
 "assets/assets/dribble.png": "9e082d5711f5a4b2ee57a98bcdbe9c76",
 "assets/assets/phone.png": "45903a1ffa9ede882171aca9f71c4c29",
 "assets/assets/ios.png": "49f79e21da11e96b8cf0e3b8bef6616c",
-"assets/assets/a7a.png": "0a35f3c5e5007a33b52ee185fc3a4507",
 "assets/assets/me2.png": "7048fbb802e0e0491846537a98acc9c3",
 "assets/assets/profile2.jpeg": "fc69595e2626b5d524e760da227cbe91",
 "assets/assets/log.png": "fd3aca80fbeea47ecd11278a7b21037e",
@@ -104,17 +102,19 @@ const RESOURCES = {
 "assets/assets/1337WhitePng.png": "98cb34a7d7078db200616833d210cef5",
 "assets/assets/mostaqal.png": "e14cb8ac44fd01d6aa7ac6ddb47beadd",
 "assets/assets/gek.png": "f1bd3fe7ad152a1b1c4dbd0fddf1116f",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "main.dart.js",
+  "/",
+"main.dart.js",
 "index.html",
+"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -213,11 +213,9 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache only if the resource was successfully fetched.
+        // lazily populate the cache.
         return response || fetch(event.request).then((response) => {
-          if (response && Boolean(response.ok)) {
-            cache.put(event.request, response.clone());
-          }
+          cache.put(event.request, response.clone());
           return response;
         });
       })
